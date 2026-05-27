@@ -28,4 +28,4 @@ multilingual_safety_diploma/
 ├── requirements.txt                   # Dependencies
 └── thesis/                            # Full thesis document (optional)
 ```
-
+! Because this is a safety-related study, the dataset contains potentially harmful content.  Be careful.
